@@ -8,7 +8,9 @@ class Solution(object):
         'V':5,
         'X':10,
         'L':50'
-        'C':
+        'C':100,
+        'D':500,
+        
         }
         """
         pass
