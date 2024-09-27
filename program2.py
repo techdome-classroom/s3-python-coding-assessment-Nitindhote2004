@@ -18,7 +18,7 @@ class Solution(object):
         for char reversed(s):
         value = room_value[char]
         if value < prev_value:
-        total
+        total-=
         """
         pass
 
