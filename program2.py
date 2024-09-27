@@ -28,6 +28,8 @@ class Solution(object):
         return total
 
    print(room_to_integer("XTI"))
+   print(room_to_integer("XXVIT"))
+   print(room_to-integer)
 
         """
         pass
