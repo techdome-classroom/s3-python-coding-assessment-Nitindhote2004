@@ -7,7 +7,8 @@ class Solution(object):
         bracket_map={')':'(','}':'{',']':'['}
         for char in s:
                   if char in bracket_map:
-                  top_element = stack.pop()if stack else '
+                  top_element = stack.pop()if stack else '#'
+                  
         """
         pass
 
