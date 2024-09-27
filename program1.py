@@ -12,6 +12,8 @@ class Solution(object):
                   return false 
                   else :
                   stack.append(char)
+                  return not stack
+                  print
         """
         pass
 
