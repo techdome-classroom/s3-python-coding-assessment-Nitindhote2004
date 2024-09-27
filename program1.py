@@ -16,6 +16,7 @@ class Solution(object):
                   
 
                   print(isValid("()"))
+                  print(isValid)
         """
         pass
 
