@@ -6,7 +6,7 @@ class Solution(object):
         stack=[]
         bracket_map={')':'(','}':'{',']':'['}
         for char in s:
-                  if char in 
+                  if char in bracket
         """
         pass
 
