@@ -15,6 +15,7 @@ class Solution(object):
 
         total=0
         prev_value=0
+        for char reversed()
         """
         pass
 
