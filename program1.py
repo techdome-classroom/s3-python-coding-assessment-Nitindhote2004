@@ -3,9 +3,9 @@ class Solution(object):
         """
         :type s: str
         :rtype: bool
-        stack=[]
-        brac
+        """
         pass
+    
 
 
 
