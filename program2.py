@@ -15,17 +15,19 @@ class Solution(object):
 
         total=0
         prev_value=0
+
         for char reversed(s):
         value = room_value[char]
         if value < prev_value:
         total-= value 
+
         else:
         total += value
         prev value=value
-        
+
         return total
 
-
+   int
 
         """
         pass
