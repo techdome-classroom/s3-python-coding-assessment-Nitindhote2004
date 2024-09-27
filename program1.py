@@ -5,7 +5,8 @@ class Solution(object):
         :rtype: bool:
         stack=[]
         bracket_map={')':'(','}':'{',']':'['}
-        for char i
+        for char in s:
+        if
         """
         pass
 
