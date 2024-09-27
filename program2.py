@@ -22,10 +22,11 @@ class Solution(object):
         else:
         total += value
         prev value=value
+        
         return total
 
 
-        
+
         """
         pass
 
