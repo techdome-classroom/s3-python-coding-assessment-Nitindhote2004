@@ -3,6 +3,8 @@ class Solution(object):
         """
         :type s: str
         :rtype: bool:
+        stack=[]
+        bracket
         """
         pass
 
