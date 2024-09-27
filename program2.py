@@ -27,7 +27,7 @@ class Solution(object):
 
         return total
 
-   print(room_to_integer(x))
+   print(room_to_integer("XTI"))
 
         """
         pass
