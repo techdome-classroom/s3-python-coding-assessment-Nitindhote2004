@@ -7,7 +7,8 @@ class Solution(object):
         'I':=1,
         'V':=5,
         'X':=10,
-        'L':=
+        'L':=50'
+        'C'
         }
         """
         pass
