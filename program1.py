@@ -9,7 +9,9 @@ class Solution(object):
                   if char in bracket_map:
                   top_element = stack.pop()if stack else '#'
                   if bracket_map[char] != top_ element:
-                  return f
+                  return false 
+                  else :
+                  
         """
         pass
 
