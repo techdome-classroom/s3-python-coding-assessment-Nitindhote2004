@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: bool:
         stack=[]
-        bracket_map={')':'('}
+        bracket_map={')':'(',}
         """
         pass
 
